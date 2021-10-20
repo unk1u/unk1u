@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @unk1u
 - 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: giulianonick5@gmail.com
 
 <!---
